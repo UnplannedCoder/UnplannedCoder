@@ -1,4 +1,4 @@
-# Hi, I'm Pawan Sain 👋
+  # Hi, I'm Pawan Sain 👋
 
 💻 Code | 🚀 Learn | 🔁 Improve  
 
@@ -24,7 +24,7 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 
 ## 🛠️ Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,mysql,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,c,cpp,mysql,python,html,css,github)](https://skillicons.dev)
 
 ---
 
