@@ -1,4 +1,4 @@
-Hi, I’m Pawan Sain 👋
+##Hi, I’m Pawan Sain 👋
 
 I'm a tech enthusiast and Computer Science student who loves building web experiences and learning modern technologies.
 
@@ -26,7 +26,6 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 
 ## 📂 Projects
 - 🌐 Personal Portfolio Website
+- 🌍 Solar System Animation
 
 ⭐ **Fun Fact:** Code + Curiosity = Innovation 🚀
-- 🌍 Solar System Animation
----
