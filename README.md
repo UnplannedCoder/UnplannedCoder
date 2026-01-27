@@ -30,9 +30,13 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 ## 🛠️ Tech Skills
 ---
 ---
-•	Frontend: [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-•	Database: [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-•	Tools and Others:[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+•	Frontend:   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+•	Database:   [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+•	Tools and Others:  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 ---
 
 ---
