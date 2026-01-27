@@ -37,6 +37,8 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 
 •	Tools and Others:  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
+•	Other Languages: [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+
 ---
 
 ---
