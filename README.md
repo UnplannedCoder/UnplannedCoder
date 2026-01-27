@@ -3,10 +3,6 @@ Hi, I’m Pawan Sain 👋
 ---
 
 ---
-💻 Code | 🚀 Learn | 🔁 Improve  
----
-
----
 I'm a tech enthusiast and Computer Science student who loves building web experiences and learning modern technologies.
 
 - 🌱 Learning React & modern JavaScript
@@ -17,13 +13,13 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 ---
 
 ---
-## 🌐 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/pawan-sain-18b74631b
-- 📧 Email: pawansa2006@gmail.com
+💻 Code | 🚀 Learn | 🔁 Improve  
 ---
 
 ---
-⭐ **Fun Fact:** Code + Curiosity = Innovation 🚀
+## 🌐 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/pawan-sain-18b74631b
+- 📧 Email: pawansa2006@gmail.com
 ---
 
 ---
@@ -44,5 +40,10 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 ---
 ## 📂 Projects
 - 🌐 Personal Portfolio Website
+---
+
+---
+⭐ **Fun Fact:** Code + Curiosity = Innovation 🚀
+---
 - 🌍 Solar System Animation
 ---
