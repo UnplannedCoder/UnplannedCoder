@@ -34,7 +34,7 @@ I'm a tech enthusiast and Computer Science student who loves building web experi
 
 ---
 ## 📂 Projects
-- 🌐 Personal Portfolio Website : http://127.0.0.1:5500/Portfolio.html
+- 🌐 Personal Portfolio Website : https://github.com/UnplannedCoder/Personal-Portfolio.git
 - 🌍 Solar System Animation : http://127.0.0.1:5500/SolarSystem.html
 ---
 
