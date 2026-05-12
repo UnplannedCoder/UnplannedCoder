@@ -114,15 +114,24 @@ I’m a **tech enthusiast and passionate developer** who enjoys building modern 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unplannedcoder&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unplannedcoder&theme=tokyonight&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=unplannedcoder&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=unplannedcoder&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unplannedcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=unplannedcoder&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
