@@ -1,8 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Pawan%20Sain&fontSize=50&fontColor=ffffff"/>
-</p>
+<h1 align="center">✈️ Pawan Sain</h1>
 
 <h3 align="center">
  Computer Science Student • Web Developer • Tech Enthusiast
