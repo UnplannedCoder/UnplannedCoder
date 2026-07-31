@@ -10,10 +10,6 @@ Computer Science Student • Aspiring Data Analyst • Full Stack Developer
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Full+Stack+Developer;Power+BI+%7C+SQL+%7C+Excel+Enthusiast;Building+Data+Analytics+%26+Web+Projects;Learning+Modern+Technologies+Everyday" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unplannedcoder&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 ---
 
 # ⚡ About Me
