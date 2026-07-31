@@ -122,12 +122,11 @@ Business Intelligence Dashboard
 # 🏆 Certifications
 
 - Google Data Analytics Professional Certificate
+- Microsoft Power BI Data Analyst
 - Excel Basics for Data Analysis
 - SQL (HackerRank)
 - Python (GeeksforGeeks)
 - Deloitte Data Analytics Job Simulation
-- AI for Beginners (HP LIFE)
-- Google Cloud Computing Foundations
 
 ---
 
