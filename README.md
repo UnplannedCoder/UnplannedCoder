@@ -135,14 +135,6 @@ Business Intelligence Dashboard
 
 ---
 
-# 📈 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=unplannedcoder&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -150,16 +142,6 @@ Business Intelligence Dashboard
 <img src="https://github-readme-stats.vercel.app/api?username=unplannedcoder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unplannedcoder&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unplannedcoder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
