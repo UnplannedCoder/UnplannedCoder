@@ -134,7 +134,7 @@ Business Intelligence Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UnplannedCoder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-ten-umber-21.vercel.app/api?username=UnplannedCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnplannedCoder&theme=tokyonight&hide_border=true" height="170"/>
 
