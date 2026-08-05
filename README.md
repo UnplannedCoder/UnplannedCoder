@@ -156,7 +156,7 @@ Business Intelligence Dashboard
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/UnplannedCoder/UnplannedCoder/output/github-contribution-grid-snake-dark.svg"/>
+<img src="<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>"/>
 </p>
 
 ---
