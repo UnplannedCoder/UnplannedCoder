@@ -123,7 +123,7 @@ Business Intelligence Dashboard
 
 - Google Data Analytics Professional Certificate
 - Microsoft Power BI Data Analyst
-- Excel Basics for Data Analysis
+- Full Stack Developer
 - SQL (HackerRank)
 - Python (GeeksforGeeks)
 - Deloitte Data Analytics Job Simulation
