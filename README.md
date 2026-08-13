@@ -134,7 +134,7 @@ Business Intelligence Dashboard
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=UnplannedCoder&theme=tokyonight&hide_border=true" height="180" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=UnplannedCoder&theme=tokyonight&hide_border=true"/>
 
 </p>
 
