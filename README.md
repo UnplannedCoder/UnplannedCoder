@@ -155,25 +155,12 @@ Business Intelligence Dashboard
 # 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="./profile/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/UnplannedCoder/UnplannedCoder/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
-
 ---
 
 # 🌐 Connect With Me
