@@ -1,12 +1,8 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Profile
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-
-  push:
-    paths:
-      - ".github/workflows/main.yml"
+    - cron: "0 0 * * *"
 
   workflow_dispatch:
 
@@ -18,9 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
+      # Generate GitHub Streak Stats
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -28,24 +22,26 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Generate GitHub Contribution Snake
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/github-snake.svg
-            profile/github-snake-dark.svg?palette=github-dark
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Save generated files
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/streak.svg
-          git add profile/github-snake.svg
-          git add profile/github-snake-dark.svg
+          git add profile/github-contribution-grid-snake.svg
+          git add profile/github-contribution-grid-snake-dark.svg
 
           git commit -m "Update GitHub profile stats" || exit 0
           git push
