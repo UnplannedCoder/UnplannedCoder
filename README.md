@@ -136,7 +136,7 @@ Business Intelligence Dashboard
   <img
     src="./profile/streak.svg"
     alt="GitHub Streak Stats"
-    width="900"
+    width="600"
   />
 </p>
 
