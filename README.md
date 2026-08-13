@@ -133,9 +133,11 @@ Business Intelligence Dashboard
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=UnplannedCoder&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak Stats"
+    width="900"
+  />
 </p>
 
 ---
@@ -154,7 +156,23 @@ Business Intelligence Dashboard
 
 <p align="center">
 
-<img src="<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/github-snake.svg"
+  />
+
+  <img
+    src="./profile/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
 </p>
 
 ---
