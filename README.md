@@ -66,7 +66,7 @@ I'm a **Computer Science student** passionate about **Data Analytics** and **Ful
 
 ## Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" />
 </p>
