@@ -235,13 +235,9 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=UnplannedCoder&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true"
-    width="48%"
-  />
-  <img
     src="./profile/streak.svg"
     alt="GitHub Streak Stats"
-    width="48%"
+    width="600"
   />
 </p>
 
