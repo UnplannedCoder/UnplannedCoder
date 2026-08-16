@@ -231,6 +231,8 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 ---
 
+# 📊 GitHub Analytics
+
 <p align="center">
   <img
     width="70%"
