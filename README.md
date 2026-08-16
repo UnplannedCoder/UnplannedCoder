@@ -7,7 +7,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UnplannedCoder&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/UnplannedCoder?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/stars/UnplannedCoder?label=STARS&style=for-the-badge&color=0e75b6" />
 </p>
