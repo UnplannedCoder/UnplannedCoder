@@ -235,9 +235,9 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 <p align="center">
   <img
-    src="./profile/streak.svg"
+    width="70%"
+    src="https://streak-stats.demolab.com?user=UnplannedCoder&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Stats"
-    width="600"
   />
 </p>
 
@@ -247,7 +247,8 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=react-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=merko&hide_border=true"
+    alt="GitHub Activity Graph"
     width="100%"
   />
 </p>
