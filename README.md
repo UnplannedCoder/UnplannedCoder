@@ -44,7 +44,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </p>
 
 ---
