@@ -1,44 +1,58 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🚀 Pawan Sain</h1>
+<h1 align="center">Hi, I'm Pawan Sain</h1>
 
 <h3 align="center">
 Computer Science Student • Data Analyst • Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Full+Stack+Developer;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Building+Data+Analytics+%26+Web+Projects;Turning+Ideas+into+Applications;Learning+%26+Building+Every+Day" />
+  <img src="https://komarev.com/ghpvc/?username=UnplannedCoder&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/UnplannedCoder?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/UnplannedCoder?label=STARS&style=for-the-badge&color=0e75b6" />
 </p>
-
----
-
-# ⚡ About Me
-
-🎓 B.Tech Computer Science & Engineering Student at **JECRC University**  
-📍 Jaipur, Rajasthan, India
-
-I'm a **Computer Science student** passionate about **Data Analytics** and **Full Stack Development**. I enjoy working with data to discover meaningful business insights and building modern web applications that solve real-world problems.
-
-- 📊 Aspiring **Data Analyst**
-- 💻 Full Stack Developer
-- 📈 Working with **Power BI, SQL, Excel & Python**
-- 🌐 Building applications with **React, Node.js, Express.js & MongoDB**
-- 🧠 Improving my **Data Structures & Algorithms**
-- 🚀 Building real-world projects
-- 📚 Continuously learning and exploring modern technologies
 
 <p align="center">
-  🎯 <b>Turning Data into Insights & Ideas into Applications.</b>
+  I enjoy building modern web applications, analyzing data,
+  creating interactive dashboards, and solving real-world problems.
 </p>
 
 ---
 
-# 🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights" />
+</p>
+
+---
+
+# About Me
+
+* 🎓 Computer Science Student at **JECRC University**
+* 📊 Passionate about **Data Analytics & Business Intelligence**
+* 💻 Full Stack Developer
+* 📈 Experienced with **Power BI, SQL, Excel & Python**
+* 🌐 Building applications with **React, Node.js, Express.js & MongoDB**
+* 🧠 Strong interest in **Data Structures & Algorithms**
+* 🚀 Building and deploying real-world projects
+* 📚 Continuously learning modern technologies
+* 🎯 Goal: Build scalable software that combines **data, technology and great user experiences**
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+---
 
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
 ---
@@ -68,136 +82,156 @@ I'm a **Computer Science student** passionate about **Data Analytics** and **Ful
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge" />
 </p>
 
 ---
 
-# 💡 Currently Working On
+# Currently Working On
 
-- 🧠 Improving **Data Structures & Algorithms**
-- ⚛️ Building modern **React.js projects**
-- 🌐 Developing **Full Stack Web Applications**
-- 📊 Creating interactive **Power BI dashboards**
-- 🐍 Improving **Python for Data Analysis**
-- 🗄️ Strengthening **SQL for Data Analytics**
-- 🚀 Building and deploying real-world projects
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🧑‍💻 **CodeNest – Snippet Saver** | Full Stack platform to securely save, organize, manage and share code snippets and text |
-| 💰 **Expense Tracker App** | Full Stack expense management application with authentication, expense tracking, dashboard, REST APIs and MongoDB |
-| 📊 **Blinkit Grocery Analysis** | Interactive Power BI dashboard for sales, customer, product and delivery analysis |
-| 📱 **Mobile Sales Analysis** | Power BI dashboard analyzing sales performance, brands, revenue trends and customer insights |
-| 📈 **Sales Performance Insights** | Business Intelligence dashboard focused on sales KPIs, profit analysis and business performance |
+* 🧠 Improving **Data Structures & Algorithms**
+* ⚛️ Building modern **React.js projects**
+* 🌐 Developing **Full Stack Web Applications**
+* 📊 Creating interactive **Power BI dashboards**
+* 🐍 Improving **Python for Data Analysis**
+* 🗄️ Strengthening **SQL for Data Analytics**
+* 🚀 Building and deploying real-world projects
 
 ---
 
-### 🧑‍💻 CodeNest – Snippet Saver
+# Featured Projects
 
-**Full Stack Code & Text Management Platform**
+| Project                            | Description                                                                                                       |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 🧑‍💻 **CodeNest – Snippet Saver** | Full Stack platform to securely save, organize, manage and share code snippets and text                           |
+| 💰 **Expense Tracker App**         | Full Stack expense management application with authentication, expense tracking, dashboard, REST APIs and MongoDB |
+| 📊 **Blinkit Grocery Analysis**    | Interactive Power BI dashboard for sales, customer, product and delivery analysis                                 |
+| 📱 **Mobile Sales Analysis**       | Power BI dashboard analyzing sales performance, brands, revenue trends and customer insights                      |
+| 📈 **Sales Performance Insights**  | Business Intelligence dashboard focused on sales KPIs, profit analysis and business performance                   |
+
+---
+
+# 🧑‍💻 CodeNest – Snippet Saver
+
+### Full Stack Code & Text Management Platform
 
 CodeNest is a full-stack web application that allows users to **securely save, organize, manage and share their code snippets and text-based data in one place.**
 
-**Features:**
-- 🔐 JWT-based User Authentication
-- ➕ Create and save code snippets
-- ✏️ Edit existing snippets
-- 👁️ View saved snippets
-- 🗑️ Delete snippets
-- 🔎 Search and filter snippets
-- 📋 One-click copy to clipboard
-- 🔗 Share snippets through links
-- 👤 Private user-specific collections
-- 📱 Responsive design
-- 🌙 Dark & Light mode
+### Features
 
-**Tech Stack:**
+* 🔐 JWT-based User Authentication
+* ➕ Create and save code snippets
+* ✏️ Edit existing snippets
+* 👁️ View saved snippets
+* 🗑️ Delete snippets
+* 🔎 Search and filter snippets
+* 📋 One-click copy to clipboard
+* 🔗 Share snippets through links
+* 👤 Private user-specific collections
+* 📱 Responsive design
+* 🌙 Dark & Light mode
 
-**Frontend:** React.js • Vite • Redux Toolkit • Tailwind CSS  
-**Backend:** Node.js • Express.js  
+### Tech Stack
+
+**Frontend:** React.js • Vite • Redux Toolkit • Tailwind CSS
+
+**Backend:** Node.js • Express.js
+
 **Database:** MongoDB
 
 ---
 
-### 💰 Expense Tracker App
+# 💰 Expense Tracker App
 
-**Full Stack Expense Management Application**
+### Full Stack Expense Management Application
 
-**Features:**
-- 🔐 User Authentication
-- 💰 Expense & Income Tracking
-- 📊 Interactive Dashboard
-- 🔄 REST APIs
-- 🗄️ MongoDB Database
+A full-stack application for managing personal income and expenses with an interactive dashboard.
+
+### Features
+
+* 🔐 User Authentication
+* 💰 Expense & Income Tracking
+* 📊 Interactive Dashboard
+* 🔄 REST APIs
+* 🗄️ MongoDB Database
 
 ---
 
-### 📊 Blinkit Grocery Analysis
+# 📊 Blinkit Grocery Analysis
 
-**Power BI Business Intelligence Dashboard**
+### Power BI Business Intelligence Dashboard
 
-**Analysis includes:**
-- 💰 Sales Analysis
-- 👥 Customer Insights
-- 📦 Product Analysis
-- 📊 KPI Dashboard
-- 🔎 Dynamic Filters
-- 📐 DAX Measures
-- 🚚 Delivery Performance
+Interactive Power BI dashboard for analyzing grocery sales, customers, products and delivery performance.
+
+### Analysis Includes
+
+* 💰 Sales Analysis
+* 👥 Customer Insights
+* 📦 Product Analysis
+* 📊 KPI Dashboard
+* 🔎 Dynamic Filters
+* 📐 DAX Measures
+* 🚚 Delivery Performance
 
 **Tools:** Power BI • DAX • Power Query • Data Modeling
 
 ---
 
-### 📱 Mobile Sales Analysis
+# 📱 Mobile Sales Analysis
 
-**Power BI Business Intelligence Dashboard**
+### Power BI Business Intelligence Dashboard
 
-**Analysis includes:**
-- 📈 Sales Performance
-- 🏷️ Brand Analysis
-- 💰 Revenue Trends
-- 👥 Customer Insights
-- 📊 Interactive Visualizations
+Interactive dashboard focused on mobile sales performance and business trends.
+
+### Analysis Includes
+
+* 📈 Sales Performance
+* 🏷️ Brand Analysis
+* 💰 Revenue Trends
+* 👥 Customer Insights
+* 📊 Interactive Visualizations
 
 **Tools:** Power BI • DAX • Power Query
 
 ---
 
-### 📈 Sales Performance Insights
+# 📈 Sales Performance Insights
 
-**Business Intelligence Dashboard**
+### Business Intelligence Dashboard
 
-**Analysis includes:**
-- 📊 Sales KPIs
-- 💰 Profit Analysis
-- 👥 Customer Insights
-- 📈 Business Performance
-- 📊 Interactive Visualizations
+Dashboard focused on sales KPIs, profitability and business performance.
+
+### Analysis Includes
+
+* 📊 Sales KPIs
+* 💰 Profit Analysis
+* 👥 Customer Insights
+* 📈 Business Performance
+* 📊 Interactive Visualizations
 
 **Tools:** Power BI • DAX • Power Query
+
 ---
 
 # 🏆 Certifications & Learning
 
-- 🎓 Google Data Analytics Professional Certificate
-- 📊 Excel Basics for Data Analysis — Coursera
-- 🗄️ SQL Basics — HackerRank
-- 🐍 Python — GeeksforGeeks
-- ☁️ Google Cloud Career Launchpad — Computing Foundations
-- 🤖 AI for Beginners — HP LIFE
-- 📈 Deloitte Data Analytics Job Simulation
-- 🌐 Introduction to Front-End Development — Coursera
-- 💻 Full Stack Development — Decode Labs
+* 🎓 **Google Data Analytics Professional Certificate**
+* 📊 **Excel Basics for Data Analysis** — Coursera
+* 🗄️ **SQL Basics** — HackerRank
+* 🐍 **Python** — GeeksforGeeks
+* ☁️ **Google Cloud Career Launchpad** — Computing Foundations
+* 🤖 **AI for Beginners** — HP LIFE
+* 📈 **Deloitte Data Analytics Job Simulation**
+* 🌐 **Introduction to Front-End Development** — Coursera
+* 💻 **Full Stack Development** — Decode Labs
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Streak
 
 <p align="center">
   <img
@@ -209,7 +243,7 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
   <img
@@ -236,30 +270,30 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
-<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Sain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/UnplannedCoder">
 <img src="https://img.shields.io/badge/GitHub-UnplannedCoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
+<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Sain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-📧 <b>Email:</b> pawansa2006@gmail.com
+<a href="mailto:pawansa2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-pawansa2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 💬 Quote
-
 <p align="center">
-
-### **"Turning Data into Insights & Ideas into Applications."**
-
+  <b>🚀 Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-⭐ If you like my work, don't forget to star my repositories!
+  If you like my work, consider giving a ⭐ to my repositories.
+</p>
+
+<p align="center">
+  <i>Turning Data into Insights • Building Ideas into Applications</i>
 </p>
