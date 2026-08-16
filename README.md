@@ -145,9 +145,10 @@ Business Intelligence Dashboard
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
