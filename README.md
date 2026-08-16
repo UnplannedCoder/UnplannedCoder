@@ -89,10 +89,40 @@ I'm a **Computer Science student** passionate about **Data Analytics** and **Ful
 
 | Project | Description |
 |---|---|
+| 🧑‍💻 **CodeNest – Snippet Saver** | Full Stack platform to securely save, organize, manage and share code snippets and text |
 | 💰 **Expense Tracker App** | Full Stack expense management application with authentication, expense tracking, dashboard, REST APIs and MongoDB |
 | 📊 **Blinkit Grocery Analysis** | Interactive Power BI dashboard for sales, customer, product and delivery analysis |
 | 📱 **Mobile Sales Analysis** | Power BI dashboard analyzing sales performance, brands, revenue trends and customer insights |
 | 📈 **Sales Performance Insights** | Business Intelligence dashboard focused on sales KPIs, profit analysis and business performance |
+
+---
+
+### 🧑‍💻 CodeNest – Snippet Saver
+
+**Full Stack Code & Text Management Platform**
+
+CodeNest is a full-stack web application that allows users to **securely save, organize, manage and share their code snippets and text-based data in one place.**
+
+**Features:**
+- 🔐 JWT-based User Authentication
+- ➕ Create and save code snippets
+- ✏️ Edit existing snippets
+- 👁️ View saved snippets
+- 🗑️ Delete snippets
+- 🔎 Search and filter snippets
+- 📋 One-click copy to clipboard
+- 🔗 Share snippets through links
+- 👤 Private user-specific collections
+- 📱 Responsive design
+- 🌙 Dark & Light mode
+
+**Tech Stack:**
+
+**Frontend:** React.js • Vite • Redux Toolkit • Tailwind CSS  
+**Backend:** Node.js • Express.js  
+**Database:** MongoDB
+
+---
 
 ### 💰 Expense Tracker App
 
@@ -104,9 +134,6 @@ I'm a **Computer Science student** passionate about **Data Analytics** and **Ful
 - 📊 Interactive Dashboard
 - 🔄 REST APIs
 - 🗄️ MongoDB Database
-
-🔗 **Live Demo:**  
-https://expense-tracker-app-rho-mocha.vercel.app
 
 ---
 
@@ -154,7 +181,6 @@ https://expense-tracker-app-rho-mocha.vercel.app
 - 📊 Interactive Visualizations
 
 **Tools:** Power BI • DAX • Power Query
-
 ---
 
 # 🏆 Certifications & Learning
