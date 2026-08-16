@@ -71,8 +71,11 @@ I'm a **Computer Science student** passionate about **Data Analytics** and **Ful
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Thunder%20Client-212121?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 ---
