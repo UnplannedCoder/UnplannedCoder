@@ -270,16 +270,16 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 <p align="center">
 
-<a href="https://github.com/UnplannedCoder">
+<a href="https://portfolio-project-nu-three.vercel.app/">
 <img src="https://img.shields.io/badge/GitHub-UnplannedCoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
-<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Sain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Sain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
 </a>
 
 <a href="mailto:pawansa2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pawansa2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Gmail-pawansa2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> -->
 </a>
 
 </p>
