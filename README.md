@@ -1,210 +1,262 @@
-<!-- ================= HEADER ================= -->
+# 🚀 Pawan Sain — GitHub Profile
 
-<h1 align="center">🚀 Pawan Sain</h1>
+<h1 align="center">Hi, I'm Pawan Sain 👋</h1>
 
 <h3 align="center">
-Computer Science Student • Aspiring Data Analyst • Full Stack Developer
+Full Stack Developer • Data Analyst • Computer Science Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Full+Stack+Developer;Power+BI+%7C+SQL+%7C+Excel+Enthusiast;Building+Data+Analytics+%26+Web+Projects;Learning+Modern+Technologies+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Python+%7C+SQL+%7C+Power+BI;Building+Projects+%26+Learning+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UnplannedCoder&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
-# ⚡ About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student  
-📍 Jaipur, Rajasthan, India
+🎓 **B.Tech Computer Science & Engineering Student at JECRC University**
 
-I'm a **Computer Science student** passionate about **Data Analytics** and **Full Stack Development**. I enjoy transforming raw data into meaningful business insights through interactive dashboards while also building scalable web applications.
+I'm a passionate **Full Stack Developer and Data Analytics enthusiast** who enjoys building practical applications and transforming data into meaningful insights.
 
-- 📊 Aspiring **Data Analyst**
-- 💻 Full Stack Developer
-- 📈 Skilled in **Power BI, SQL, Excel & Python**
-- 🌐 Experienced with **React, Node.js, Express.js & MongoDB**
-- 🚀 Building real-world projects
-- 📚 Always learning new technologies
+I like working across both **software development and analytics** — from designing responsive web applications and REST APIs to creating interactive Power BI dashboards and analyzing data with Python and SQL.
+
+* 💻 Building **Full Stack Web Applications**
+* 📊 Exploring **Data Analytics & Business Intelligence**
+* ⚛️ Working with **React.js**
+* 🟢 Building backends with **Node.js & Express.js**
+* 🗄️ Working with **MongoDB & MySQL**
+* 📈 Creating dashboards using **Power BI**
+* 🐍 Learning and applying **Python for Data Analysis**
+* 🚀 Continuously building projects and improving my skills
 
 <p align="center">
-🎯 <b>Mission:</b> Become a skilled <b>Data Analyst & Software Engineer</b>
+  <b>💡 Turning Ideas into Applications & Data into Insights.</b>
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,c,cpp" />
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
----
+### 🌐 Full Stack Development
 
-# 📊 Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql" />
+</p>
 
-<p align="center">
+### 📊 Data Analytics & BI
 
+<p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-005C99?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Power%20Query-00B294?style=for-the-badge"/>
+</p>
 
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 💰 Expense Tracker App
+### 🗂️ CodeNest — Snippet Saver
 
-Full Stack Expense Management Application
+A full-stack application built **from scratch** for saving and managing code snippets as well as text-based notes.
 
-### Features
+**Highlights:**
 
-- User Authentication
-- Expense & Income Tracking
-- Interactive Dashboard
-- REST APIs
-- MongoDB Database
+* 📝 Save code snippets and text
+* 📂 Organize useful information
+* ✏️ Edit saved content
+* 📋 Copy content easily
+* 🔗 Share snippets
+* 🗑️ Delete saved items
+* 🎨 Clean and responsive interface
 
-🔗 https://expense-tracker-app-rho-mocha.vercel.app
-
----
-
-## 📊 Blinkit Grocery Analysis
-
-Power BI Business Intelligence Dashboard
-
-### Features
-
-- Sales Analysis
-- Customer Insights
-- Product Analysis
-- KPI Dashboard
-- Dynamic Filters
-- DAX Measures
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
 ---
 
-## 📱 Mobile Sales Analysis
+### 💰 Expensely — Expense Tracker
 
-Power BI Dashboard
+A full-stack expense management application designed to help users track their financial activities.
 
-### Features
+**Features:**
 
-- Sales Performance
-- Brand Analysis
-- Revenue Trends
-- Customer Insights
-- Interactive Dashboard
-
----
-
-## 📈 Sales Performance Insights
-
-Business Intelligence Dashboard
-
-### Features
-
-- Sales KPIs
-- Profit Analysis
-- Customer Insights
-- Business Performance
-- Interactive Visualizations
+* 🔐 User authentication
+* 💸 Expense & income tracking
+* 📊 Dashboard and financial overview
+* 🔌 REST APIs
+* 🗄️ MongoDB database
+* 🌐 Full-stack deployment
 
 ---
 
-# 🏆 Certifications
+### 📊 Blinkit Grocery Analysis
 
-- Google Data Analytics Professional Certificate
-- Microsoft Power BI Data Analyst
-- Full Stack Developer
-- SQL (HackerRank)
-- Python (GeeksforGeeks)
-- Deloitte Data Analytics Job Simulation
+An interactive **Power BI Business Intelligence Dashboard** built to analyze grocery sales and customer performance.
+
+**Analysis includes:**
+
+* 💰 Revenue & sales performance
+* 🛒 Order analysis
+* 👥 Customer insights
+* 📦 Product & category performance
+* 📈 KPI tracking
+* 🔎 Interactive filters
+* ⚡ DAX measures
+* 🔄 Power Query data transformation
+* 🧩 Data modeling
+
+**Tools:** Power BI • DAX • Power Query • Excel
 
 ---
 
-# 📊 GitHub Analytics
+### 📱 Mobile Sales Analysis
+
+An interactive Power BI dashboard focused on analyzing mobile sales performance.
+
+**Key Analysis:**
+
+* 📈 Sales trends
+* 📱 Brand performance
+* 💰 Revenue analysis
+* 👥 Customer insights
+* 📊 KPI visualization
+* 🔎 Interactive filtering
+
+---
+
+## 📜 Certifications & Learning
+
+* 🎓 Google Data Analytics Professional Certificate
+* 🐍 Python Certificate — GeeksforGeeks
+* 🗄️ SQL Basics — HackerRank
+* 📊 Excel Basics for Data Analysis — Coursera
+* ☁️ Google Cloud Career Launchpad — Computing Foundations
+* 🤖 AI for Beginners — HP LIFE
+* 📈 Data Analytics Job Simulation — Deloitte / Forage
+* 🌐 Introduction to Front-End Development — Coursera
+* 💻 Full Stack Development — Decode Labs
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak Stats"
-    width="600"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UnplannedCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnplannedCoder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=UnplannedCoder&theme=tokyonight&hide_border=true" width="600"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/UnplannedCoder/UnplannedCoder/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
+
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UnplannedCoder/UnplannedCoder/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+📊 Advanced Power BI
+🗄️ SQL for Data Analytics
+🐍 Python for Data Analysis
+🌐 Advanced MERN Stack
+📈 Data Visualization
+🧠 Data Structures & Algorithms
+```
+
+---
+
+## 🎯 My Current Focus
+
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### 💻 Development
+
+Building scalable and practical full-stack applications using modern web technologies.
+
+</td>
+
+<td align="center" width="250">
+
+### 📊 Analytics
+
+Learning how to transform raw datasets into useful business insights.
+
+</td>
+
+<td align="center" width="250">
+
+### 🚀 Growth
+
+Building projects consistently and improving my problem-solving skills.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
-<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Sain-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Sain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/UnplannedCoder">
-<img src="https://img.shields.io/badge/GitHub-unplannedcoder-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-UnplannedCoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-
-📧 **Email:** pawansa2006@gmail.com
-
+📧 <b>pawansa2006@gmail.com</b>
 </p>
 
 ---
 
-# 💡 Currently Learning
-
-- 📊 Advanced Power BI
-- 🗄 SQL for Data Analytics
-- 🐍 Python for Data Analysis
-- 🌐 Advanced MERN Stack
-- 📈 Data Visualization
-
----
-
-# 💬 Quote
+## 💬 Developer Philosophy
 
 <p align="center">
 
-### **"Turning Data into Insights & Ideas into Applications."**
+### <i>"Build. Learn. Analyze. Improve. Repeat."</i> 🚀
 
 </p>
 
 <p align="center">
-
-⭐ If you like my work, don't forget to star my repositories!
-
+⭐ If you find my projects useful or interesting, consider giving them a star!
 </p>
