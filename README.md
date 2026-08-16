@@ -291,7 +291,3 @@ Dashboard focused on sales KPIs, profitability and business performance.
 <p align="center">
   If you like my work, consider giving a ⭐ to my repositories.
 </p>
-
-<p align="center">
-  <i>Turning Data into Insights • Building Ideas into Applications</i>
-</p>
