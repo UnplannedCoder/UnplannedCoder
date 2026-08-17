@@ -8,7 +8,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/UnplannedCoder?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/UnplannedCoder?label=STARS&style=for-the-badge&color=0e75b6" />
 </p>
 
 <p align="center">
