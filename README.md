@@ -258,7 +258,7 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/UnplannedCoder/UnplannedCoder/output/github-contribution-grid-snake-dark.svg"
+    src="https://github.com/UnplannedCoder/UnplannedCoder/blob/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
