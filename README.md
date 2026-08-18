@@ -218,6 +218,7 @@ Dashboard focused on sales KPIs, profitability and business performance.
 # 🏆 Certifications & Learning
 
 * 🎓 **Google Data Analytics Professional Certificate**
+* 🎓 **Microsoft PowerBI Data Analyst**
 * 🗄️ **SQL Basics** — HackerRank
 * 🐍 **Python** — GeeksforGeeks
 * 🤖 **AI for Beginners** — HP LIFE
