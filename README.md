@@ -224,7 +224,6 @@ Dashboard focused on sales KPIs, profitability and business performance.
 * 🐍 **Python** — GeeksforGeeks
 * 🤖 **AI for Beginners** — HP LIFE
 * 📈 **Deloitte Data Analytics Job Simulation**
-* 🌐 **Introduction to Front-End Development** — Coursera
 
 ---
 
