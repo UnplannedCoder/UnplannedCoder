@@ -220,7 +220,6 @@ Dashboard focused on sales KPIs, profitability and business performance.
 * 🎓 **Google Data Analytics Professional Certificate**
 * 🗄️ **SQL Basics** — HackerRank
 * 🐍 **Python** — GeeksforGeeks
-* ☁️ **Google Cloud Career Launchpad** — Computing Foundations
 * 🤖 **AI for Beginners** — HP LIFE
 * 📈 **Deloitte Data Analytics Job Simulation**
 * 🌐 **Introduction to Front-End Development** — Coursera
