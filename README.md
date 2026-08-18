@@ -218,14 +218,12 @@ Dashboard focused on sales KPIs, profitability and business performance.
 # 🏆 Certifications & Learning
 
 * 🎓 **Google Data Analytics Professional Certificate**
-* 📊 **Excel Basics for Data Analysis** — Coursera
 * 🗄️ **SQL Basics** — HackerRank
 * 🐍 **Python** — GeeksforGeeks
 * ☁️ **Google Cloud Career Launchpad** — Computing Foundations
 * 🤖 **AI for Beginners** — HP LIFE
 * 📈 **Deloitte Data Analytics Job Simulation**
 * 🌐 **Introduction to Front-End Development** — Coursera
-* 💻 **Full Stack Development** — Decode Labs
 
 ---
 
