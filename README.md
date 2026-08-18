@@ -103,13 +103,13 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 # Featured Projects
 
-| Project                            | Description                                                                                                       |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 🧑‍💻 **CodeNest – Snippet Saver** | Full Stack platform to securely save, organize, manage and share code snippets and text                           |
-| 💰 **Expense Tracker App**         | Full Stack expense management application with authentication, expense tracking, dashboard, REST APIs and MongoDB |
-| 📊 **Blinkit Grocery Analysis**    | Interactive Power BI dashboard for sales, customer, product and delivery analysis                                 |
-| 📱 **Mobile Sales Analysis**       | Power BI dashboard analyzing sales performance, brands, revenue trends and customer insights                      |
-| 📈 **Sales Performance Insights**  | Business Intelligence dashboard focused on sales KPIs, profit analysis and business performance                   |
+| Project                            | Description                                                                                               | Tech Stack                                                                          |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 🧑‍💻 **CodeNest – Snippet Saver** | Full Stack platform to securely save, organize, manage and share code snippets and text.                  | **React.js • Vite • Redux Toolkit • Tailwind CSS • Node.js • Express.js • MongoDB** |
+| 💰 **Expense Tracker App**         | Full Stack expense management application with authentication, expense tracking, dashboard and REST APIs. | **React.js • Node.js • Express.js • MongoDB**                                       |
+| 📊 **Blinkit Grocery Analysis**    | Interactive Power BI dashboard for sales, customer, product and delivery analysis.                        | **Power BI • DAX • Power Query • Data Modeling**                                    |
+| 📱 **Mobile Sales Analysis**       | Power BI dashboard analyzing sales performance, brands, revenue trends and customer insights.             | **Power BI • DAX • Power Query**                                                    |
+| 📈 **Sales Performance Insights**  | Business Intelligence dashboard focused on sales KPIs, profit analysis and business performance.          | **Power BI • DAX • Power Query**                                                    |
 
 ---
 
