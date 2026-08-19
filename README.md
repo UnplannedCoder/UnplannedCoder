@@ -117,9 +117,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ### Full Stack Code & Text Management Platform
 
-CodeNest is a full-stack web application that allows users to **securely save, organize, manage and share their code snippets and text-based data in one place.**
-
-### Features
 
 
 
