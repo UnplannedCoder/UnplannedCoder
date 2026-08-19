@@ -139,8 +139,6 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 
 **Backend:** Node.js • Express.js
 
-**Database:** MongoDB
-
 ---
 
 # 💰 Expense Tracker App
