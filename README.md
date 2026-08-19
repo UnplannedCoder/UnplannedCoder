@@ -135,10 +135,6 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 
 ### Tech Stack
 
-**Frontend:** React.js • Vite • Redux Toolkit • Tailwind CSS
-
-**Backend:** Node.js • Express.js
-
 ---
 
 # 💰 Expense Tracker App
