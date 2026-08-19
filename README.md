@@ -123,8 +123,7 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 
 * 🔐 JWT-based User Authentication
 * ➕ Create and save code snippets
-* ✏️ Edit existing snippets
-* 👁️ View saved snippets
+
 
 
 
