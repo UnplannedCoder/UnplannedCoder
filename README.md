@@ -113,17 +113,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-# 🧑‍💻 CodeNest – Snippet Saver
-
-### Full Stack Code & Text Management Platform
-
-
-
-
-
-
----
-
 # 💰 Expense Tracker App
 
 ### Full Stack Expense Management Application
