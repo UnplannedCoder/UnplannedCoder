@@ -214,8 +214,8 @@ Dashboard focused on sales KPIs, profitability and business performance.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=github-dark&hide_border=true&area=true"
+    alt="Pawan Sain's GitHub Activity Graph"
     width="100%"
   />
 </p>
