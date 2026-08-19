@@ -127,9 +127,7 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 * 👁️ View saved snippets
 * 🗑️ Delete snippets
 * 🔎 Search and filter snippets
-* 📋 One-click copy to clipboard
-* 🔗 Share snippets through links
-* 👤 Private user-specific collections
+
 
 ---
 
