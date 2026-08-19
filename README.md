@@ -130,10 +130,6 @@ CodeNest is a full-stack web application that allows users to **securely save, o
 * 📋 One-click copy to clipboard
 * 🔗 Share snippets through links
 * 👤 Private user-specific collections
-* 📱 Responsive design
-* 🌙 Dark & Light mode
-
-### Tech Stack
 
 ---
 
