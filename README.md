@@ -115,7 +115,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 # 💰 Expense Tracker App
 
-### Full Stack Expense Management Application
 
 
 
