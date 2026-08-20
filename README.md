@@ -113,21 +113,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-# 💰 Expense Tracker App
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # 📊 Blinkit Grocery Analysis
 
 ### Power BI Business Intelligence Dashboard
