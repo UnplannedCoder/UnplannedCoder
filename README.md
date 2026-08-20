@@ -125,7 +125,7 @@ A full-stack application for managing personal income and expenses with an inter
 * 💰 Expense & Income Tracking
 * 📊 Interactive Dashboard
 * 🔄 REST APIs
-* 🗄️ MongoDB Database
+
 
 ---
 
