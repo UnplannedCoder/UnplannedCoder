@@ -124,7 +124,7 @@ A full-stack application for managing personal income and expenses with an inter
 * 🔐 User Authentication
 * 💰 Expense & Income Tracking
 * 📊 Interactive Dashboard
-* 🔄 REST APIs
+
 
 
 ---
