@@ -117,7 +117,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ### Full Stack Expense Management Application
 
-A full-stack application for managing personal income and expenses with an interactive dashboard.
+
 
 
 
