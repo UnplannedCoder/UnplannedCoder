@@ -126,7 +126,7 @@ Interactive Power BI dashboard for analyzing grocery sales, customers, products 
 * 📦 Product Analysis
 * 📊 KPI Dashboard
 * 🔎 Dynamic Filters
-* 📐 DAX 
+ 
 
 
 
