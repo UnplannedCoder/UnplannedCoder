@@ -123,7 +123,7 @@ Interactive Power BI dashboard for analyzing grocery sales, customers, products 
 
 * 💰 Sales Analysis
 * 👥 Customer Insights
-* 📦 Product 
+ 
 
 
  
