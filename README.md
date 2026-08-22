@@ -113,14 +113,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-# 📊
-
-
-
-
-
----
-
 # 📱 Mobile Sales Analysis
 
 ### Power BI Business Intelligence Dashboard
