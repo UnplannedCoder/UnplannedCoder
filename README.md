@@ -119,7 +119,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 Interactive Power BI dashboard for analyzing grocery sales, customers, products and delivery performance.
 
-### Analysis
+###
 
 ---
 
