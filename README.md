@@ -117,7 +117,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ### Power BI Business Intelligence Dashboard
 
-Interactive Power BI dashboard for analyzing grocery sales
+Interactive Power BI dashboard for analyzing
 
 
 ---
