@@ -119,15 +119,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 Interactive dashboard focused on mobile sales performance and business trends.
 
-### Analysis
-
-
-
-
-
- 
-
-
 ---
 
 # 📈 Sales Performance Insights
