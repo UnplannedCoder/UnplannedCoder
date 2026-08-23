@@ -127,7 +127,7 @@ Interactive dashboard focused on mobile sales performance and business trends.
 * 👥 Customer Insights
 * 📊 Interactive Visualizations
 
-**Tools:** Power BI • DAX 
+**Tools:** Power BI
 
 ---
 
