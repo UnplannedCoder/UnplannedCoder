@@ -125,7 +125,7 @@ Interactive dashboard focused on mobile sales performance and business trends.
 * 🏷️ Brand Analysis
 * 💰 Revenue Trends
 * 👥 Customer Insights
-* 📊 Interactive 
+ 
 
 
 ---
