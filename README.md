@@ -117,7 +117,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ### Power BI Business Intelligence Dashboard
 
-Interactive dashboard focused on mobile sales performance and business trends.
+Interactive dashboard focused on mobile sales performance
 
 ---
 
