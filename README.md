@@ -113,14 +113,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-# 📱
-
-
-
-
-
----
-
 # 📈 Sales Performance Insights
 
 ### Business Intelligence Dashboard
