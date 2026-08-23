@@ -122,7 +122,7 @@ Interactive dashboard focused on mobile sales performance and business trends.
 ### Analysis Includes
 
 * 📈 Sales Performance
-* 🏷️ Brand Analysis
+* 🏷️ Brand
 
 
  
