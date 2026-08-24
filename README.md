@@ -119,7 +119,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 Dashboard focused on sales KPIs, profitability and business performance.
 
-### Analysis
+
 
 
 
