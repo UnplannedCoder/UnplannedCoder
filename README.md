@@ -124,7 +124,7 @@ Dashboard focused on sales KPIs, profitability and business performance.
 * 📊 Sales KPIs
 * 💰 Profit Analysis
 * 👥 Customer Insights
-* 📈 Business 
+
 
 
 
