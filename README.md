@@ -113,7 +113,7 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-# 📈 Sales
+
 
 
 
