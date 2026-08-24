@@ -117,8 +117,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ### Business Intelligence Dashboard
 
-Dashboard 
-
 
 
 
