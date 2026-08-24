@@ -113,22 +113,6 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # 🏆 Certifications & Learning
 
 * 🎓 **Google Data Analytics Professional Certificate**
