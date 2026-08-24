@@ -127,7 +127,7 @@ Dashboard focused on sales KPIs, profitability and business performance.
 * 📈 Business Performance
 * 📊 Interactive Visualizations
 
-**Tools:** 
+
 
 ---
 
