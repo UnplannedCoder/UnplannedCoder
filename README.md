@@ -18,7 +18,7 @@ Computer Science Student • Aspiring Data Analyst • Full Stack Developer
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights" />
 </p>
 
 ---
