@@ -44,10 +44,9 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 ---
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Eat();+Sleep();+Code();+Repeat();"
-    alt="Eat Sleep Code Repeat"
-  />
+
+### 🍴 Eat()  •  😴 Sleep()  •  💻 Code()  •  🔁 Repeat()
+
 </p>
 
 ---
