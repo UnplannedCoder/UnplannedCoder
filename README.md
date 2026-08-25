@@ -286,7 +286,7 @@ I'm continuously building new projects while improving my development and analyt
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=github-dark&hide_border=true&area=true"
-    alt="Pawan Sain's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
     width="100%"
   />
 </p>
