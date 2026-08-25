@@ -15,7 +15,6 @@
   <a href="https://github.com/UnplannedCoder">
     <img src="https://img.shields.io/github/followers/UnplannedCoder?label=Followers&style=for-the-badge&color=1F6FEB" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=UnplannedCoder&label=Profile%20Views&style=for-the-badge&color=58A6FF" />
 </p>
 
 <p align="center">
