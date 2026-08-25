@@ -300,38 +300,38 @@ I'm continuously building new projects while improving my development and analyt
 
 ---
 
----
-
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-project-nu-three.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>&nbsp;
 
-  <a href="https://github.com/UnplannedCoder">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>&nbsp;
+<a href="https://portfolio-project-nu-three.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Visit My Portfolio"
+  />
+</a>
 
-  <a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>&nbsp;
+<a href="https://github.com/UnplannedCoder">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Follow My Work on GitHub"
+  />
+</a>
 
-  <a href="mailto:pawansai2006@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
+</a>
+
+<a href="mailto:pawansai2006@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contact Me"
+  />
+</a>
+
 </p>
 
 ---
