@@ -306,28 +306,28 @@ I'm continuously building new projects while improving my development and analyt
 
 <a href="https://portfolio-project-nu-three.vercel.app/">
   <img
-    src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/Visit%20My%20Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Visit My Portfolio"
   />
 </a>
 
 <a href="https://github.com/UnplannedCoder">
   <img
-    src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Follow My Work on GitHub"
+    src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Follow Me on GitHub"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Connect on LinkedIn"
   />
 </a>
 
 <a href="mailto:pawansai2006@gmail.com">
   <img
-    src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Contact Me"
   />
 </a>
