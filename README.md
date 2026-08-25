@@ -306,10 +306,7 @@ I'm continuously building new projects while improving my development and analyt
 
 <p align="center">
   <a href="https://portfolio-project-nu-three.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
+    Portfolio
   </a>&nbsp;
 
   <a href="https://github.com/UnplannedCoder">
