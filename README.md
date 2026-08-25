@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Pawan Sain</h1>
 
 <h3 align="center">
-Computer Science Student • Data Analyst • Full Stack Developer
+Computer Science Student • Aspiring Data Analyst • Full Stack Developer
 </h3>
 
 <p align="center">
