@@ -1,82 +1,81 @@
-<!-- ================= HEADER ================= -->
+<!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi, I'm Pawan Sain</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=230&section=header&text=Pawan%20Sain&fontSize=58&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=C9D1D9"
+    width="100%"
+  />
+</p>
 
 <h3 align="center">
-Computer Science Student • Data Analyst • Full Stack Developer
+  🚀 Building Digital Products • 📊 Transforming Data into Insights
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/UnplannedCoder?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
+  <a href="https://github.com/UnplannedCoder">
+    <img src="https://img.shields.io/github/followers/UnplannedCoder?label=Followers&style=for-the-badge&color=1F6FEB" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=UnplannedCoder&label=Profile%20Views&style=for-the-badge&color=58A6FF" />
 </p>
 
 <p align="center">
-  I enjoy building modern web applications, analyzing data,
-  creating interactive dashboards, and solving real-world problems.
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights" />
-</p>
+# 👋 About Me
+
+I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionate about building software, analyzing data, and creating solutions to real-world problems.
+
+- 🎓 Computer Science Student at **JECRC University**
+- 📊 Aspiring **Data Analyst**
+- 💻 **Full Stack Developer**
+- 📈 Interested in **Data Analytics & Business Intelligence**
+- ⚡ Building applications with **React, Node.js, Express.js & MongoDB**
+- 📊 Creating dashboards using **Power BI, DAX & Power Query**
+- 🐍 Using **Python & SQL** for data analysis
+- 🧠 Improving my **Data Structures & Algorithms**
+- 🚀 Building and deploying real-world projects
+- 🎯 Goal: Build scalable products that combine **data, technology and great user experiences**
 
 ---
 
-# About Me
+# 🛠️ Tech Stack
 
-* 🎓 Computer Science Student at **JECRC University**
-* 📊 Passionate about **Data Analytics & Business Intelligence**
-* 💻 Full Stack Developer
-* 📈 Experienced with **Power BI, SQL, Excel & Python**
-* 🌐 Building applications with **React, Node.js, Express.js & MongoDB**
-* 🧠 Strong interest in **Data Structures & Algorithms**
-* 🚀 Building and deploying real-world projects
-* 📚 Continuously learning modern technologies
-* 🎯 Goal: Build scalable software that combines **data, technology and great user experiences**
-
----
-
-# Tech Stack
-
-## Languages
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
----
-
-## Frontend
+## 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </p>
 
----
-
-## Backend
+## ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
----
-
-## Data Analytics
+## 📊 Data Analytics & BI
 
 <p>
-  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-005C99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/POWER%20QUERY-00B294?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-00B294?style=for-the-badge" />
 </p>
 
----
-
-## Tools
+## 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -84,45 +83,184 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 <p>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Thunder%20Client-000000?style=for-the-badge" />
 </p>
 
 ---
 
-# Currently Working On
+# 🚀 Currently Working On
 
-* 🧠 Improving **Data Structures & Algorithms**
-* ⚛️ Building modern **React.js projects**
-* 🌐 Developing **Full Stack Web Applications**
-* 📊 Creating interactive **Power BI dashboards**
-* 🐍 Improving **Python for Data Analysis**
-* 🗄️ Strengthening **SQL for Data Analytics**
-* 🚀 Building and deploying real-world projects
+<table>
+<tr>
+
+<td width="50%">
+
+### 📊 Data Analytics
+
+- Power BI dashboards
+- SQL analysis
+- Python for Data Analysis
+- Excel
+- DAX
+- Power Query
+- Business Intelligence
+
+</td>
+
+<td width="50%">
+
+### 💻 Full Stack Development
+
+- React.js applications
+- Node.js & Express.js
+- REST APIs
+- MongoDB
+- Authentication
+- Deployment
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Featured Projects
+# 💼 Featured Projects
 
-| Project                            | Description                                                                                               | Tech Stack                                                                          |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| <a href="https://codenest-snippet-saver.vercel.app/"> 🧑‍💻 **CodeNest – Snippet Saver** </a> | Full Stack platform to securely save, organize, manage and share code snippets and text.                  | **React.js • Vite • Redux Toolkit • Tailwind CSS • Node.js • Express.js • MongoDB** |
-| <a href="https://expense-tracker-app-rho-mocha.vercel.app"> 💰 **Expense Tracker**         | Full Stack expense management application with authentication, expense tracking, dashboard and REST APIs. | **React.js • Node.js • Express.js • MongoDB**                                       |
-| 📊 **Blinkit Grocery Analysis**    | Interactive Power BI dashboard for sales, customer, product and delivery analysis.                        | **Power BI • DAX • Power Query • Data Modeling**                                    |
-| 📱 **Mobile Sales Analysis**       | Power BI dashboard analyzing sales performance, brands, revenue trends and customer insights.             | **Power BI • DAX • Power Query**                                                    |
-| 📈 **Sales Performance Insights**  | Business Intelligence dashboard focused on sales KPIs, profit analysis and business performance.          | **Power BI • DAX • Power Query**                                                    |
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🧑‍💻 CodeNest — Snippet Saver
+
+A full-stack platform for securely saving, organizing, managing and sharing code snippets and text.
+
+**Tech Stack**
+
+`React.js` `Vite` `Redux Toolkit`  
+`Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+
+<p>
+<a href="https://codenest-snippet-saver.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 💰 Expense Tracker
+
+Full-stack expense management application with authentication, expense tracking, dashboard and REST APIs.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js`  
+`MongoDB`
+
+<p>
+<a href="https://expense-tracker-app-rho-mocha.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Blinkit Grocery Analysis
+
+Interactive Power BI dashboard analyzing:
+
+- Sales
+- Customers
+- Products
+- Orders
+- Delivery performance
+
+**Tech Stack**
+
+`Power BI` `DAX` `Power Query` `Data Modeling`
+
+</td>
+
+<td width="50%">
+
+### 📱 Mobile Sales Analysis
+
+Business Intelligence dashboard focused on:
+
+- Sales performance
+- Brand analysis
+- Revenue trends
+- Customer insights
+
+**Tech Stack**
+
+`Power BI` `DAX` `Power Query`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Sales Performance Insights
+
+Business Intelligence dashboard focused on:
+
+- Sales KPIs
+- Profit analysis
+- Revenue trends
+- Business performance
+
+**Tech Stack**
+
+`Power BI` `DAX` `Power Query`
+
+</td>
+
+<td width="50%">
+
+### 🔨 More Projects
+
+I'm continuously building new projects while improving my development and analytics skills.
+
+<p>
+<a href="https://github.com/UnplannedCoder?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🏆 Certifications & Learning
+# 🎓 Certifications & Learning
 
-* 🎓 **Google Data Analytics Professional Certificate**
-* 🎓 **Microsoft PowerBI Data Analyst**
-* 💻 **Meta Full Stack Developer**
-* 💻 **Google Prompting Essentials**
-* 🗄️ **SQL Basics** — HackerRank
-* 🐍 **Python** — GeeksforGeeks
-* 🤖 **AI for Beginners** — HP LIFE
-* 📈 **Deloitte Data Analytics Job Simulation**
+| Certification / Course | Platform |
+|---|---|
+| 🎓 Google Data Analytics Professional Certificate | Google |
+| 📊 Microsoft Power BI Data Analyst | Microsoft |
+| 💻 Full Stack Developer | Meta |
+| 🤖 Prompting Essentials | Google |
+| 🗄️ SQL Basics | HackerRank |
+| 🐍 Python | GeeksforGeeks |
+| 🤖 AI for Beginners | HP LIFE |
+| 📈 Data Analytics Job Simulation | Deloitte |
 
 ---
 
@@ -162,29 +300,34 @@ Computer Science Student • Data Analyst • Full Stack Developer
 
 ---
 
-# 🌐 Connect With Me
+# 📌 My Development Journey
 
-<p align="center">
-  <a href="https://portfolio-project-nu-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/UnplannedCoder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pawansai2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>🚀 Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  If you like my work, consider giving a ⭐ to my repositories.
-</p>
+```text
+                 DATA ANALYTICS
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+      Excel           SQL           Python
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                   Power BI
+                       │
+                  DAX / Power Query
+                       │
+                       ▼
+              BUSINESS INTELLIGENCE
+                       │
+                       ▼
+             FULL STACK DEVELOPMENT
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+      React          Node.js       MongoDB
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                  REST APIs
+                       │
+                       ▼
+                REAL-WORLD APPS
