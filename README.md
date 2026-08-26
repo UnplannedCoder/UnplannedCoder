@@ -35,7 +35,6 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 - 💻 **Full Stack Developer**
 - ⚡ Building applications with **React, Node.js, Express.js & MongoDB**
 - 📊 Creating dashboards using **Power BI, DAX & Power Query**
-- 🧠 Improving
 - 🚀 Building and deploying real-world projects
 - 🎯 Goal: Build scalable products that combine **data, technology and great user experiences**
 
