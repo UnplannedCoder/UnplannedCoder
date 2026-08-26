@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=700&size=34&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
     alt="Typing SVG"
   />
 </p>
