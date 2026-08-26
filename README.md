@@ -33,7 +33,6 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 - 🎓 Computer Science Student at **JECRC University**
 - 📊 Aspiring **Data Analyst**
 - 💻 **Full Stack Developer**
-- 📈 Interested in **Data Analytics & Business Intelligence**
 - ⚡ Building applications with **React, Node.js, Express.js & MongoDB**
 - 📊 Creating dashboards using **Power BI, DAX & Power Query**
 - 🐍 Using **Python & SQL** for data analysis
