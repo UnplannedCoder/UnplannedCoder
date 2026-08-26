@@ -19,7 +19,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=900&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
     alt="Typing SVG"
   />
 </p>
