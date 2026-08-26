@@ -265,14 +265,23 @@ I'm continuously building new projects while improving my development and analyt
 
 ---
 
-# 📊 GitHub Analytics
+### 🔥 My Stats :
 
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img
     width="70%"
-    src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=true&border_radius=15&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=false&border_radius=15&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Stats"
+  />
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
+  <img
+    width="70%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnplannedCoder&layout=compact&theme=github-dark-blue&hide_border=false&border_radius=15&title_color=FF7A00&text_color=C9D1D9&icon_color=FF7A00"
+    alt="Top Languages"
   />
 </p>
 
