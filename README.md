@@ -19,7 +19,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
     alt="Typing SVG"
   />
 </p>
