@@ -265,6 +265,8 @@ I'm continuously building new projects while improving my development and analyt
 
 ---
 
+# 📊 GitHub Analytics
+
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img
