@@ -276,15 +276,6 @@ I'm continuously building new projects while improving my development and analyt
   />
 </p>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=UnplannedCoder&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=15&title_color=58A6FF&text_color=C9D1D9"
-    alt="Most Used Languages"
-  />
-</p>
-
 ---
 
 # 📈 Activity Graph
