@@ -267,11 +267,21 @@ I'm continuously building new projects while improving my development and analyt
 
 # 📊 GitHub Analytics
 
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img
     width="70%"
     src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Stats"
+  />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnplannedCoder&layout=compact&theme=github_dark&hide_border=true&border_radius=15&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Languages"
   />
 </p>
 
