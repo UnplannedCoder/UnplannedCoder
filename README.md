@@ -265,13 +265,11 @@ I'm continuously building new projects while improving my development and analyt
 
 ---
 
-# 📊 GitHub Analytics
-
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img
     width="70%"
-    src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=true&border_radius=15&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Stats"
   />
 </p>
