@@ -93,7 +93,7 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 
 | 📊 Data Analytics | 💻 Full Stack Development |
 | :--- | :--- |
-| • Power BI dashboards<br>• SQL analysis<br>• Python for Data Analysis<br>• Excel<br>• DAX<br>• Power Query<br>• Business Intelligence | • React.js applications<br>• Node.js & Express.js<br>• REST APIs<br>• MongoDB<br>• Authentication<br>• Deployment |
+| • Power BI dashboards<br>• SQL analysis<br>• Python for Data Analysis<br>• Excel<br>• DAX<br>• Power Query | • React.js applications<br>• Node.js & Express.js<br>• REST APIs<br>• MongoDB<br>• Authentication<br>• Deployment |
 ---
 
 # 💼 Featured Projects
