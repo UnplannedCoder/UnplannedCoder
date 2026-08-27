@@ -252,7 +252,7 @@ I'm continuously building new projects while improving my development and analyt
 
 <p align="center">
   <img
-    src="https://unplannedcoder-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=github-dark&hide_border=true&area=true&line=FF7A00&point=FF7A00"
+    src="https://unplannedcoder-activity-graph.vercel.app/graph?username=UnplannedCoder&theme=github-dark&hide_border=true&area=true&line=FF7A00&point=FF7A00&area_color=FF7A00"
     alt="GitHub Activity Graph"
     width="100%"
   />
