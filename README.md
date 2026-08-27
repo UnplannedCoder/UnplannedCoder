@@ -2,42 +2,43 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=230&section=header&text=Pawan%20Sain&fontSize=58&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=C9D1D9"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=230&section=header&text=Pawan%20Sain&fontSize=58&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=C9D1D9"
     width="100%"
   />
 </p>
 
 <h3 align="center">
-  🚀 Building Digital Products • 📊 Transforming Data into Insights
+  🚀 Crafting Scalable Web Products • 📊 Transforming Complex Data into Actionable Insights
 </h3>
 
 <p align="center">
   <a href="https://github.com/UnplannedCoder">
-    <img src="https://img.shields.io/github/followers/UnplannedCoder?label=Followers&style=for-the-badge&color=1F6FEB" />
+    <img src="https://img.shields.io/github/followers/UnplannedCoder?label=Followers&style=for-the-badge&color=1F6FEB&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/pawan-sain-18b74631b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=700&size=34&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Power+BI+Developer;Building+Modern+Web+Applications;Turning+Data+into+Meaningful+Insights"
+    src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=700&size=32&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Computer+Science+Undergrad+at+JECRC;Full+Stack+Web+Developer;Power+BI+%26+Data+Analytics+Enthusiast;Building+Modern+Digital+Experiences"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-# 👋 About Me
+# ⚡ Quick Snapshot
 
-I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionate about building software, analyzing data, and creating solutions to real-world problems.
-
-- 🎓 Computer Science Student at **JECRC University**
-- 📊 Aspiring **Data Analyst**
-- 💻 **Full Stack Developer**
-- ⚡ Building applications with **React, Node.js, Express.js & MongoDB**
-- 📊 Creating dashboards using **Power BI, DAX & Power Query** 
-- 🎯 Goal: Build scalable products that combine **data, technology and great user experiences**
-
----
+```javascript
+const pawan = {
+    status: "Building & Analyzing",
+    education: "B.Tech Computer Science @ JECRC University",
+    coreStack: ["React", "Node.js", "Express", "MongoDB", "Power BI", "Python"],
+    focus: "Bridging the gap between software engineering and data intelligence",
+    goal: "Securing impactful roles as a Developer or Data Analyst"
+};
 
 <h3 align="center">
   🍴 Eat() &nbsp;•&nbsp; 😴 Sleep() &nbsp;•&nbsp; 💻 Code() &nbsp;•&nbsp; 🔁 Repeat()
