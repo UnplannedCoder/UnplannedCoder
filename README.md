@@ -271,7 +271,7 @@ I'm continuously building new projects while improving my development and analyt
 <p align="center">
   <img
     width="70%"
-    src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=false&border_radius=15&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=UnplannedCoder&theme=github-dark-blue&hide_border=false&border_radius=2&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Stats"
   />
 </p>
