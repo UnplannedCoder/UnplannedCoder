@@ -39,6 +39,12 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 
 ---
 
+<h3 align="center">
+  🍴 Eat() &nbsp;•&nbsp; 😴 Sleep() &nbsp;•&nbsp; 💻 Code() &nbsp;•&nbsp; 🔁 Repeat()
+</h3>
+
+---
+
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
