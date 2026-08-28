@@ -37,7 +37,13 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 - 📊 Creating dashboards using **Power BI, DAX & Power Query** 
 - 🎯 Goal: Build scalable products that combine **data, technology and great user experiences**
 
+---
 
+<h3 align="center">
+  🍴 Eat() &nbsp;•&nbsp; 😴 Sleep() &nbsp;•&nbsp; 💻 Code() &nbsp;•&nbsp; 🔁 Repeat()
+</h3>
+
+---
 
 # 🛠️ Tech Stack
 
