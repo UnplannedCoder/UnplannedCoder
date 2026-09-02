@@ -50,7 +50,7 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,powerbi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ## 🎨 Frontend Development
