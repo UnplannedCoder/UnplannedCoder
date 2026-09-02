@@ -79,7 +79,7 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 ## 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 <p>
