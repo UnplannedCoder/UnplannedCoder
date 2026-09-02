@@ -56,7 +56,7 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
 ## 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 </p>
 
 ## ⚙️ Backend & Database
