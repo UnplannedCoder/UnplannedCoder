@@ -72,7 +72,6 @@ I'm **Pawan Sain**, a Computer Science student at **JECRC University** passionat
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-005C99?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20Query-00B294?style=for-the-badge" />
 </p>
 
